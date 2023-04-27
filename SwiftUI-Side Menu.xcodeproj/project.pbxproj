@@ -14,6 +14,24 @@
 		FA3A0D4829FB18D600990857 /* SwiftUI_Side_MenuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3A0D4729FB18D600990857 /* SwiftUI_Side_MenuTests.swift */; };
 		FA3A0D5229FB18D600990857 /* SwiftUI_Side_MenuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3A0D5129FB18D600990857 /* SwiftUI_Side_MenuUITests.swift */; };
 		FA3A0D5429FB18D600990857 /* SwiftUI_Side_MenuUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3A0D5329FB18D600990857 /* SwiftUI_Side_MenuUITestsLaunchTests.swift */; };
+		FA3A0D6429FB196500990857 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA3A0D6129FB196500990857 /* Inter-Regular.ttf */; };
+		FA3A0D6529FB196500990857 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA3A0D6229FB196500990857 /* Poppins-Bold.ttf */; };
+		FA3A0D6629FB196500990857 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA3A0D6329FB196500990857 /* Inter-SemiBold.ttf */; };
+		FA3A0D6F29FB198400990857 /* house.riv in Resources */ = {isa = PBXBuildFile; fileRef = FA3A0D6829FB198400990857 /* house.riv */; };
+		FA3A0D7029FB198400990857 /* confetti.riv in Resources */ = {isa = PBXBuildFile; fileRef = FA3A0D6929FB198400990857 /* confetti.riv */; };
+		FA3A0D7129FB198400990857 /* check.riv in Resources */ = {isa = PBXBuildFile; fileRef = FA3A0D6A29FB198400990857 /* check.riv */; };
+		FA3A0D7229FB198400990857 /* menu_button.riv in Resources */ = {isa = PBXBuildFile; fileRef = FA3A0D6B29FB198400990857 /* menu_button.riv */; };
+		FA3A0D7329FB198400990857 /* shapes.riv in Resources */ = {isa = PBXBuildFile; fileRef = FA3A0D6C29FB198400990857 /* shapes.riv */; };
+		FA3A0D7429FB198400990857 /* button.riv in Resources */ = {isa = PBXBuildFile; fileRef = FA3A0D6D29FB198400990857 /* button.riv */; };
+		FA3A0D7529FB198400990857 /* icons.riv in Resources */ = {isa = PBXBuildFile; fileRef = FA3A0D6E29FB198400990857 /* icons.riv */; };
+		FA3A0D7829FB19A000990857 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3A0D7729FB19A000990857 /* Note.swift */; };
+		FA3A0D7A29FB19B900990857 /* NoteSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3A0D7929FB19B900990857 /* NoteSection.swift */; };
+		FA3A0D7D29FB19F800990857 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3A0D7C29FB19F800990857 /* Extensions.swift */; };
+		FA3A0D7F29FB1A1900990857 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3A0D7E29FB1A1900990857 /* CustomTextField.swift */; };
+		FA3A0D8129FB1B4A00990857 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3A0D8029FB1B4A00990857 /* CustomButton.swift */; };
+		FA3A0D8329FB1B5D00990857 /* CustomFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3A0D8229FB1B5D00990857 /* CustomFont.swift */; };
+		FA3A0D8629FB1BD000990857 /* RiveRuntime in Frameworks */ = {isa = PBXBuildFile; productRef = FA3A0D8529FB1BD000990857 /* RiveRuntime */; };
+		FA3A0D8929FB1C0600990857 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3A0D8829FB1C0600990857 /* TabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +62,23 @@
 		FA3A0D4D29FB18D600990857 /* SwiftUI-Side MenuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-Side MenuUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA3A0D5129FB18D600990857 /* SwiftUI_Side_MenuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Side_MenuUITests.swift; sourceTree = "<group>"; };
 		FA3A0D5329FB18D600990857 /* SwiftUI_Side_MenuUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Side_MenuUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FA3A0D6129FB196500990857 /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		FA3A0D6229FB196500990857 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		FA3A0D6329FB196500990857 /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		FA3A0D6829FB198400990857 /* house.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = house.riv; sourceTree = "<group>"; };
+		FA3A0D6929FB198400990857 /* confetti.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = confetti.riv; sourceTree = "<group>"; };
+		FA3A0D6A29FB198400990857 /* check.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = check.riv; sourceTree = "<group>"; };
+		FA3A0D6B29FB198400990857 /* menu_button.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = menu_button.riv; sourceTree = "<group>"; };
+		FA3A0D6C29FB198400990857 /* shapes.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = shapes.riv; sourceTree = "<group>"; };
+		FA3A0D6D29FB198400990857 /* button.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = button.riv; sourceTree = "<group>"; };
+		FA3A0D6E29FB198400990857 /* icons.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = icons.riv; sourceTree = "<group>"; };
+		FA3A0D7729FB19A000990857 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
+		FA3A0D7929FB19B900990857 /* NoteSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteSection.swift; sourceTree = "<group>"; };
+		FA3A0D7C29FB19F800990857 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		FA3A0D7E29FB1A1900990857 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		FA3A0D8029FB1B4A00990857 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		FA3A0D8229FB1B5D00990857 /* CustomFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFont.swift; sourceTree = "<group>"; };
+		FA3A0D8829FB1C0600990857 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +86,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA3A0D8629FB1BD000990857 /* RiveRuntime in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,9 +130,14 @@
 		FA3A0D3529FB18D400990857 /* SwiftUI-Side Menu */ = {
 			isa = PBXGroup;
 			children = (
+				FA3A0D8729FB1BF800990857 /* Navigation */,
+				FA3A0D7B29FB19EA00990857 /* Styles */,
+				FA3A0D7629FB199300990857 /* Model */,
 				FA3A0D3629FB18D400990857 /* SwiftUI_Side_MenuApp.swift */,
 				FA3A0D3829FB18D400990857 /* ContentView.swift */,
 				FA3A0D3A29FB18D600990857 /* Assets.xcassets */,
+				FA3A0D6729FB198400990857 /* RiveAssets */,
+				FA3A0D6029FB196500990857 /* Fonts */,
 				FA3A0D3C29FB18D600990857 /* Preview Content */,
 			);
 			path = "SwiftUI-Side Menu";
@@ -127,6 +168,58 @@
 			path = "SwiftUI-Side MenuUITests";
 			sourceTree = "<group>";
 		};
+		FA3A0D6029FB196500990857 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FA3A0D6129FB196500990857 /* Inter-Regular.ttf */,
+				FA3A0D6229FB196500990857 /* Poppins-Bold.ttf */,
+				FA3A0D6329FB196500990857 /* Inter-SemiBold.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		FA3A0D6729FB198400990857 /* RiveAssets */ = {
+			isa = PBXGroup;
+			children = (
+				FA3A0D6829FB198400990857 /* house.riv */,
+				FA3A0D6929FB198400990857 /* confetti.riv */,
+				FA3A0D6A29FB198400990857 /* check.riv */,
+				FA3A0D6B29FB198400990857 /* menu_button.riv */,
+				FA3A0D6C29FB198400990857 /* shapes.riv */,
+				FA3A0D6D29FB198400990857 /* button.riv */,
+				FA3A0D6E29FB198400990857 /* icons.riv */,
+			);
+			path = RiveAssets;
+			sourceTree = "<group>";
+		};
+		FA3A0D7629FB199300990857 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FA3A0D7729FB19A000990857 /* Note.swift */,
+				FA3A0D7929FB19B900990857 /* NoteSection.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FA3A0D7B29FB19EA00990857 /* Styles */ = {
+			isa = PBXGroup;
+			children = (
+				FA3A0D7C29FB19F800990857 /* Extensions.swift */,
+				FA3A0D7E29FB1A1900990857 /* CustomTextField.swift */,
+				FA3A0D8029FB1B4A00990857 /* CustomButton.swift */,
+				FA3A0D8229FB1B5D00990857 /* CustomFont.swift */,
+			);
+			path = Styles;
+			sourceTree = "<group>";
+		};
+		FA3A0D8729FB1BF800990857 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+				FA3A0D8829FB1C0600990857 /* TabBar.swift */,
+			);
+			path = Navigation;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +236,9 @@
 			dependencies = (
 			);
 			name = "SwiftUI-Side Menu";
+			packageProductDependencies = (
+				FA3A0D8529FB1BD000990857 /* RiveRuntime */,
+			);
 			productName = "SwiftUI-Side Menu";
 			productReference = FA3A0D3329FB18D400990857 /* SwiftUI-Side Menu.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +311,9 @@
 				Base,
 			);
 			mainGroup = FA3A0D2A29FB18D400990857;
+			packageReferences = (
+				FA3A0D8429FB1BD000990857 /* XCRemoteSwiftPackageReference "rive-ios" */,
+			);
 			productRefGroup = FA3A0D3429FB18D400990857 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -232,7 +331,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA3A0D3E29FB18D600990857 /* Preview Assets.xcassets in Resources */,
+				FA3A0D6429FB196500990857 /* Inter-Regular.ttf in Resources */,
 				FA3A0D3B29FB18D600990857 /* Assets.xcassets in Resources */,
+				FA3A0D6629FB196500990857 /* Inter-SemiBold.ttf in Resources */,
+				FA3A0D7029FB198400990857 /* confetti.riv in Resources */,
+				FA3A0D7329FB198400990857 /* shapes.riv in Resources */,
+				FA3A0D6F29FB198400990857 /* house.riv in Resources */,
+				FA3A0D7129FB198400990857 /* check.riv in Resources */,
+				FA3A0D7529FB198400990857 /* icons.riv in Resources */,
+				FA3A0D6529FB196500990857 /* Poppins-Bold.ttf in Resources */,
+				FA3A0D7229FB198400990857 /* menu_button.riv in Resources */,
+				FA3A0D7429FB198400990857 /* button.riv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +366,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA3A0D8929FB1C0600990857 /* TabBar.swift in Sources */,
+				FA3A0D7D29FB19F800990857 /* Extensions.swift in Sources */,
 				FA3A0D3929FB18D400990857 /* ContentView.swift in Sources */,
+				FA3A0D7F29FB1A1900990857 /* CustomTextField.swift in Sources */,
 				FA3A0D3729FB18D400990857 /* SwiftUI_Side_MenuApp.swift in Sources */,
+				FA3A0D8129FB1B4A00990857 /* CustomButton.swift in Sources */,
+				FA3A0D8329FB1B5D00990857 /* CustomFont.swift in Sources */,
+				FA3A0D7829FB19A000990857 /* Note.swift in Sources */,
+				FA3A0D7A29FB19B900990857 /* NoteSection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -577,6 +693,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		FA3A0D8429FB1BD000990857 /* XCRemoteSwiftPackageReference "rive-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/rive-app/rive-ios";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		FA3A0D8529FB1BD000990857 /* RiveRuntime */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FA3A0D8429FB1BD000990857 /* XCRemoteSwiftPackageReference "rive-ios" */;
+			productName = RiveRuntime;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = FA3A0D2B29FB18D400990857 /* Project object */;
 }
